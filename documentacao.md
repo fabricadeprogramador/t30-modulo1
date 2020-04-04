@@ -3,7 +3,7 @@
 ## Funcionais
 
 * Autenticar 
-        - Cadastro de usuário Administrador
+- Cadastro de usuário ***Administrador***
         - Cadastro de cliente (cadastro, alteração, exclusão, lista)
         - Busca por cliente cadastrados
 
