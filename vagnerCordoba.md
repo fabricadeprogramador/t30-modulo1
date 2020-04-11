@@ -11,7 +11,7 @@ DF | 26
 ES | 9
 GO | 8
 MA | 0
-MT |0
+MT | 0
 MS | 7
 MG | 15
 PA | 0
