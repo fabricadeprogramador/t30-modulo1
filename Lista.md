@@ -6,7 +6,8 @@
       - Telefone
       - Aluguel
 
-   ## Variáveiss
-      - Combustivel
+   ## Variáveis
+      - Combustível
       - Hospedagem
       - Alimentação
+      - Pedagio
