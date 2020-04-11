@@ -3,10 +3,10 @@
 ## Funcionais
 
 * Autenticar 
-- Cadastro de usuário ***Administrador***
-        - Cadastro de cliente (cadastro, alteração, exclusão, lista)
-        - Busca por cliente cadastrados
-
+> Cadastro de usuário ***Administrador***
+        * Cadastro de cliente (cadastro, alteração, exclusão, lista)
+        * Busca por cliente __cadastrados__
+        
 ## Não Funcionais
 
 * O Sistema deve funcionar na web quanto em app móvel
