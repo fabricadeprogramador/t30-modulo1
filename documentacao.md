@@ -13,3 +13,4 @@
         - Web, Android e IOS
         - Deve utilizar tecnologia livre
         #
+This text is <strong><em>really important</em></strong>.
