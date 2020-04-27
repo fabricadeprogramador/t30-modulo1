@@ -11,4 +11,7 @@
 
  > O Sistema deve funcionar na web quanto em app móvel
         > - Web, Android e IOS
-        > - Deve utilizar tecnologia livre
+        > - Deve utilizar tecnologia livre  
+
+
+        
