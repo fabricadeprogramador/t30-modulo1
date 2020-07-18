@@ -1,0 +1,577 @@
+[33mcommit c91a89276b6c554e31c571a71566bbfc9143b00b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Diegopcoelho <diegopcoelho15@gmail.com>
+Date:   Mon Apr 27 20:15:51 2020 -0300
+
+    contribuicao diego
+
+[33mcommit a441aa9ccd15381f174e85e87d536b74e2e9f0c9[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 0d7fb4f ec0cb42
+Author: mbfurlan15 <furlan.dmtr@gmail.com>
+Date:   Sat Apr 18 16:11:50 2020 -0400
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit ec0cb425e4c13f9e36c4bfb8b29e3641f7502495[m
+Merge: 00a7a3b bd13484
+Author: Aoliabe Jacques <aolibjacques@gmail.com>
+Date:   Sat Apr 18 16:03:04 2020 -0400
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit bd13484e63ebe5786363270282f540708fe56732[m
+Author: gepassos <gustavo.escuderopassos@gmail.com>
+Date:   Sat Apr 18 15:05:18 2020 -0400
+
+     Imagem png
+
+[33mcommit d0c0e58dcf11b5abc6036ef5a71ebc6e291cb0d6[m
+Author: gepassos <gustavo.escuderopassos@gmail.com>
+Date:   Sat Apr 18 14:45:53 2020 -0400
+
+    teste
+
+[33mcommit d9f714243e91ed0a85fbea9b2f0bcac1317c1cd6[m
+Author: gepassos <gustavo.escuderopassos@gmail.com>
+Date:   Sat Apr 18 14:40:09 2020 -0400
+
+    commit do gustavo na branch
+
+[33mcommit 00a7a3b140c41a0cb81747f8541f7a22c8b74ab6[m[33m ([m[1;31morigin/documentacao_aoliabe[m[33m)[m
+Author: Aoliabe Jacques <aolibjacques@gmail.com>
+Date:   Sat Apr 18 14:35:33 2020 -0400
+
+    doc
+
+[33mcommit 0d7fb4f2a045a082fe0b562d8c6d590d06156371[m
+Author: mbfurlan15 <furlan.dmtr@gmail.com>
+Date:   Sat Apr 18 14:33:33 2020 -0400
+
+    Doc prototipo matheus
+
+[33mcommit 49320b8d217926ba1a2496a8deb1d2614676e7fe[m
+Merge: 34fcc39 e7283d7
+Author: High Tech Cursos <dev@hightechcursos.com.br>
+Date:   Sat Apr 18 13:54:37 2020 -0400
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit 34fcc392dc94c0dc46f138b241733682dd1039ae[m
+Author: High Tech Cursos <dev@hightechcursos.com.br>
+Date:   Sat Apr 18 13:54:02 2020 -0400
+
+    Altercao na Documentacao
+
+[33mcommit e7283d76316fcc95762782ea493de9d08118c065[m
+Merge: 87a1990 7dbbd4b
+Author: valdeir <andrade_mai@yahoo.com.br>
+Date:   Sat Apr 18 13:48:33 2020 -0400
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit 87a19900fa3c9cad84461dcb2eca84f0d4d538c0[m
+Author: valdeir <andrade_mai@yahoo.com.br>
+Date:   Sat Apr 18 13:47:23 2020 -0400
+
+    Alteração Valdeir
+
+[33mcommit 7dbbd4b74055da4487250c1327fe8efd3b6b226b[m
+Author: pedrohenriquecardoso <pedrohcardoso.1995@gmail.com>
+Date:   Thu Apr 16 22:26:59 2020 -0300
+
+    prototipo ph
+
+[33mcommit 953e3e229a06c8dbd80d4b789864305a534cee28[m
+Author: Aoliabe Jacques <aolibjacques@gmail.com>
+Date:   Mon Apr 13 22:56:03 2020 -0400
+
+    .
+
+[33mcommit 0daaf20c072ba6deaddc62931f7aa1ff8d7ebc04[m
+Author: Aoliabe Jacques <aolibjacques@gmail.com>
+Date:   Sun Apr 12 01:46:53 2020 -0400
+
+    deleting copy
+
+[33mcommit 019fb2f97fe8969b49aa3cad4e22033562079b6c[m
+Author: Aoliabe Jacques <aolibjacques@gmail.com>
+Date:   Sun Apr 12 01:45:18 2020 -0400
+
+    correcao na url da img
+
+[33mcommit 361937112d97488aede1e4532d3daf978227e481[m
+Merge: 09ca95e 5633596
+Author: Aoliabe Jacques <aolibjacques@gmail.com>
+Date:   Sun Apr 12 01:42:49 2020 -0400
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit 09ca95eae50685d4a3c4c7a0fdec3429ba162143[m
+Author: Aoliabe Jacques <aolibjacques@gmail.com>
+Date:   Sun Apr 12 01:42:44 2020 -0400
+
+    prototipo numero 2
+
+[33mcommit 56335962f30f79b6fba7499bd9855db9d16c19dd[m
+Merge: fc14adf 01cf820
+Author: Valdecir-lima <emerson.motti@hotmail.com>
+Date:   Sat Apr 11 18:51:56 2020 -0300
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit 01cf8205b638352fc4981aaea0ab7e3b4d53979e[m
+Merge: e569790 46d277a
+Author: mbfurlan15 <furlan.dmtr@gmail.com>
+Date:   Sat Apr 11 17:48:06 2020 -0400
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit e5697900a8e42ded5fc5104f19338986957c7738[m
+Merge: 06f7f36 12d9f1b
+Author: mbfurlan15 <furlan.dmtr@gmail.com>
+Date:   Sat Apr 11 17:47:41 2020 -0400
+
+    teste
+
+[33mcommit 46d277a6b6d43f795d4398f0227d0fc14335c1b9[m
+Author: Emersonmotti <emerson.motti@hotmail.com>
+Date:   Sat Apr 11 18:47:20 2020 -0300
+
+    imagem
+
+[33mcommit fc14adf262a9cb8f5610ee32e3c802c213de13d3[m
+Author: Valdecir-lima <emerson.motti@hotmail.com>
+Date:   Sat Apr 11 18:46:52 2020 -0300
+
+    Alteraçao Valdecir
+
+[33mcommit 06f7f3699b9f64c280abc9fdc2d339185183333a[m
+Author: mbfurlan15 <furlan.dmtr@gmail.com>
+Date:   Sat Apr 11 17:44:19 2020 -0400
+
+    Prototipo pdf
+
+[33mcommit a4c469c163c939d24badad32da46fd8379d2054b[m
+Merge: 532dc64 12d9f1b
+Author: Valdecir-lima <emerson.motti@hotmail.com>
+Date:   Sat Apr 11 18:40:40 2020 -0300
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit 532dc647e14b7ddbe7c658823d9490ebef98f12b[m
+Author: Valdecir-lima <emerson.motti@hotmail.com>
+Date:   Sat Apr 11 18:40:21 2020 -0300
+
+    Alteração Valdecir
+
+[33mcommit 12d9f1b810f38267f502f9f32d91b7eb27450c61[m
+Author: pedrohenriquecardoso <pedrohcardoso.1995@gmail.com>
+Date:   Sat Apr 11 18:34:57 2020 -0300
+
+    ph
+
+[33mcommit f9e03ea7ddb1edddbc24fb9cffb7f69cd774dbbb[m
+Author: Aoliabe Jacques <aolibjacques@gmail.com>
+Date:   Sat Apr 11 17:22:22 2020 -0400
+
+    '
+
+[33mcommit 72a66efd5ccad808331dc9e2b884c21c4d7383b9[m
+Author: valdeir <andrade_mai@yahoo.com.br>
+Date:   Sat Apr 11 17:21:25 2020 -0400
+
+    Projeto Valdeir
+
+[33mcommit b631da7bbe9f63798aa3f31ca854bfbe5b574c86[m
+Author: Higor Cavalcanti Silva <higorsilva07.hs@gmail.com>
+Date:   Sat Apr 11 17:18:09 2020 -0400
+
+    Correção Arquivo fora da Pasta
+
+[33mcommit e3e0de088fc79b2de6e4938b9ad7256074da4392[m
+Author: Aoliabe Jacques <aolibjacques@gmail.com>
+Date:   Sat Apr 11 17:13:54 2020 -0400
+
+    meu prototipo
+
+[33mcommit ede49bee8b7f31e0ac09df03dda3300c1a6a3078[m
+Author: wemkt <my_name@example.com>
+Date:   Sat Apr 11 17:10:05 2020 -0400
+
+    Alterações
+
+[33mcommit c8d27086b9ecc3d4a6b8ebb6f49b4b32c7cd0353[m
+Author: yantmartins <yantmartins@live.com>
+Date:   Sat Apr 11 17:08:56 2020 -0400
+
+    Renomeaçao protot
+
+[33mcommit b2c373e45554735359db653de6ee490944dcbc32[m
+Merge: e0bfbe2 64dada3
+Author: yantmartins <yantmartins@live.com>
+Date:   Sat Apr 11 17:07:11 2020 -0400
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit 64dada3f43398f27d7e8e10484776f1bfa39d9ec[m
+Merge: 6095d7d 3f471de
+Author: wemkt <my_name@example.com>
+Date:   Sat Apr 11 17:06:44 2020 -0400
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit e0bfbe276c804b366778fa22900be5fe8280ea53[m
+Author: yantmartins <yantmartins@live.com>
+Date:   Sat Apr 11 17:06:42 2020 -0400
+
+    Prototipo Yan
+
+[33mcommit 3f471de6be2259c4a2a46c30947ef6380b238581[m
+Author: gepassos <gustavo.escuderopassos@gmail.com>
+Date:   Sat Apr 11 17:05:08 2020 -0400
+
+    prototipo 2 gustavo
+
+[33mcommit 6095d7d82306170326d9ae9b137d3689aef9d8ac[m
+Author: wemkt <my_name@example.com>
+Date:   Sat Apr 11 17:03:09 2020 -0400
+
+    Meu protótipo
+
+[33mcommit 102ee1099e2922ceea4e01a50155f44f03ad5bbb[m
+Merge: 6226464 3261b45
+Author: Vagner Córdoba <vagner.cordoba@outlook.com>
+Date:   Sat Apr 11 17:01:11 2020 -0400
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit 622646430299d9ed449d0830cbc5cd9f2c54f96b[m
+Author: Vagner Córdoba <vagner.cordoba@outlook.com>
+Date:   Sat Apr 11 16:59:40 2020 -0400
+
+    Deletando arquivo com nome errado
+
+[33mcommit 3261b45c84ffca7ac3032a2f2c4cf647fb3973a5[m
+Merge: 9eb7ee4 6831f5e
+Author: Higor Cavalcanti Silva <higorsilva07.hs@gmail.com>
+Date:   Sat Apr 11 16:57:33 2020 -0400
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit 6831f5ed97452bdfe96c90a6b2d558e32765cd36[m
+Merge: 330e124 60a1755
+Author: gepassos <gustavo.escuderopassos@gmail.com>
+Date:   Sat Apr 11 16:58:11 2020 -0400
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit 330e12400cd15c41d0dc46d237dc620ea90086b6[m
+Author: gepassos <gustavo.escuderopassos@gmail.com>
+Date:   Sat Apr 11 16:57:29 2020 -0400
+
+    Prototipo Gustavo
+
+[33mcommit 9eb7ee4d0c7b69f687ab2e7189c048a1dc685780[m
+Author: Higor Cavalcanti Silva <higorsilva07.hs@gmail.com>
+Date:   Sat Apr 11 16:57:05 2020 -0400
+
+    Protótipo do Higor
+
+[33mcommit 60a1755e28001be250b67ccede7000d6e273e0a9[m
+Author: Vagner Córdoba <vagner.cordoba@outlook.com>
+Date:   Sat Apr 11 16:56:38 2020 -0400
+
+    Correção de nome do arquivo
+
+[33mcommit 6a8a7314342ed9e03b304cc8e566b27efa344645[m
+Merge: 8ed51da ebf5936
+Author: Vagner Córdoba <vagner.cordoba@outlook.com>
+Date:   Sat Apr 11 16:52:58 2020 -0400
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit 8ed51da4402241a9eb32a1a579cad03fa2453145[m
+Author: Vagner Córdoba <vagner.cordoba@outlook.com>
+Date:   Sat Apr 11 16:50:23 2020 -0400
+
+    Novo diretório
+
+[33mcommit ebf59360f7f7a0306375d6ce0383e181a55a4b06[m
+Author: mbfurlan15 <furlan.dmtr@gmail.com>
+Date:   Sat Apr 11 16:50:16 2020 -0400
+
+    prototipo matheus
+
+[33mcommit fe925a58211558b6364be0cd13099ccaa99f12b6[m
+Author: High Tech Cursos <dev@hightechcursos.com.br>
+Date:   Sat Apr 11 16:48:53 2020 -0400
+
+    Prototipo Virmerson Cadastro de Cliente
+
+[33mcommit c46c261e9796f2e55118cb2ac3fabe85480930ec[m
+Author: High Tech Cursos <dev@hightechcursos.com.br>
+Date:   Sat Apr 11 16:18:12 2020 -0400
+
+    Remocao Final
+
+[33mcommit 58787b929e03e8672b2ec2ebecfbeffd86f6b5f6[m
+Merge: 96a9bc3 6d8e975
+Author: High Tech Cursos <dev@hightechcursos.com.br>
+Date:   Sat Apr 11 16:13:54 2020 -0400
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit 96a9bc35d30bb6968cad54d21042dd0d6048aa5e[m
+Author: High Tech Cursos <dev@hightechcursos.com.br>
+Date:   Sat Apr 11 16:12:44 2020 -0400
+
+    Remoção de Arquivos
+
+[33mcommit 6d8e97563f10a0a4eb91add359acafc6ebf9786d[m
+Merge: 918188a c3045a1
+Author: wemkt <my_name@example.com>
+Date:   Sat Apr 11 15:14:49 2020 -0400
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit 918188a042524c1f261e072216067c48594a8b00[m
+Author: wemkt <my_name@example.com>
+Date:   Sat Apr 11 15:05:39 2020 -0400
+
+    Alterações Waldeir
+
+[33mcommit c3045a19da18d93ff9dde7d3aa43ab41d3286c9e[m
+Merge: f472d23 c88ad2f
+Author: Emersonmotti <emerson.motti@hotmail.com>
+Date:   Sat Apr 11 15:58:39 2020 -0300
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit f472d237f25db53454bfaf3bb80ecca9e8e0f9aa[m
+Merge: 988c609 d0fb1f1
+Author: Emersonmotti <emerson.motti@hotmail.com>
+Date:   Sat Apr 11 15:56:12 2020 -0300
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit 988c609a6668fe56d34659b664d299c13c1bd84b[m
+Author: Emersonmotti <emerson.motti@hotmail.com>
+Date:   Sat Apr 11 15:54:24 2020 -0300
+
+    emerson
+
+[33mcommit c88ad2f308f11b13968b13902ec873909c4a4ddb[m
+Merge: 254cc30 d0fb1f1
+Author: Valdecir-lima <emerson.motti@hotmail.com>
+Date:   Sat Apr 11 15:43:40 2020 -0300
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit d0fb1f1b2359a4a6d1d7a332f2ce99ef930d35f7[m
+Merge: 3b3e566 8c538bb
+Author: High Tech Cursos <dev@hightechcursos.com.br>
+Date:   Sat Apr 11 14:41:48 2020 -0400
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit 3b3e566776470799665f18697138029ec70ab105[m
+Author: High Tech Cursos <dev@hightechcursos.com.br>
+Date:   Sat Apr 11 14:39:52 2020 -0400
+
+    Dois novos docs criados por Virmerson
+
+[33mcommit 8c538bb0e98f14535ab25d4cc963bbe9b4561a33[m
+Author: valdeir <andrade_mai@yahoo.com.br>
+Date:   Sat Apr 11 14:35:23 2020 -0400
+
+    alteração1
+
+[33mcommit 254cc3083fc02c3692abd5a2e40e0fa55296d48b[m
+Merge: 6eb406f 68b2fc5
+Author: Valdecir-lima <emerson.motti@hotmail.com>
+Date:   Sat Apr 11 15:31:42 2020 -0300
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit 6eb406fcdd89924c44143bf454337da1a7c7a702[m
+Author: Valdecir-lima <emerson.motti@hotmail.com>
+Date:   Sat Apr 11 15:29:48 2020 -0300
+
+    Alteração do Documento
+
+[33mcommit 9de1cd3c7787f79b5f81ac1379066a61b698cbd3[m
+Author: Valdecir-lima <emerson.motti@hotmail.com>
+Date:   Sat Apr 11 15:25:55 2020 -0300
+
+    Correção do Documento
+
+[33mcommit 68b2fc5393ce2180b3f21f632fd50cbd03a26a3d[m
+Author: Vagner Córdoba <vagner.cordoba@outlook.com>
+Date:   Sat Apr 11 14:25:19 2020 -0400
+
+    Correção do MT
+
+[33mcommit d5686bc297b857e0edeff917d8ddae9e12ac8739[m
+Merge: 0255ddf 65e2cee
+Author: mbfurlan15 <furlan.dmtr@gmail.com>
+Date:   Sat Apr 11 14:10:57 2020 -0400
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit 0255ddfe21e44a2deec2ea4b276cfca30fe16424[m
+Author: mbfurlan15 <furlan.dmtr@gmail.com>
+Date:   Sat Apr 11 14:06:55 2020 -0400
+
+    Correção extensão
+
+[33mcommit 65e2cee15a1a178ce7eb81681d280f99d704cf43[m
+Merge: 6d8cc49 938785f
+Author: Aoliabe Jacques <aolibjacques@gmail.com>
+Date:   Sat Apr 11 13:59:28 2020 -0400
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit 55b902b15f7537dd2046158d9a5ffd7c6c4d8bd4[m
+Author: wemkt <my_name@example.com>
+Date:   Sat Apr 11 13:58:32 2020 -0400
+
+    added documentacao-1.1.md
+
+[33mcommit 6d8cc49ba669bbca0da30cd60220eb423f184202[m
+Author: Aoliabe Jacques <aolibjacques@gmail.com>
+Date:   Sat Apr 11 13:55:15 2020 -0400
+
+    lista
+
+[33mcommit 938785f59f130ec776eec88714d17fbd698f30b6[m
+Author: mbfurlan15 <furlan.dmtr@gmail.com>
+Date:   Fri Apr 10 20:32:08 2020 -0400
+
+    Alteracão02
+
+[33mcommit 2714d20da9a9e6f5f563c3b144c8393e885b8beb[m
+Author: mbfurlan15 <furlan.dmtr@gmail.com>
+Date:   Fri Apr 10 20:27:33 2020 -0400
+
+    alteraçao01
+
+[33mcommit 55729cb1a284b399cd156dd0dd905bbbb0a149e7[m
+Author: mbfurlan15 <furlan.dmtr@gmail.com>
+Date:   Fri Apr 10 19:53:36 2020 -0400
+
+    matheusfurlan
+
+[33mcommit dca31b758ebbfcf02aa8b8913a22d4829a82a8eb[m
+Author: mbfurlan15 <furlan.dmtr@gmail.com>
+Date:   Thu Apr 9 17:29:00 2020 -0400
+
+    Alteração do Matheus
+
+[33mcommit fab804e05f554d531de6191ac49a6fc2fd359a39[m
+Author: Vagner Córdoba <vagner.cordoba@outlook.com>
+Date:   Thu Apr 9 13:01:23 2020 -0400
+
+    Novo Documento
+
+[33mcommit 0550b356b2a21d198268dcfbe1ec44f75f527d68[m
+Merge: a5c70d6 64dd087
+Author: valdeir <andrade_mai@yahoo.com.br>
+Date:   Wed Apr 8 20:35:38 2020 -0400
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit a5c70d6f8b6324d28c3cebc5f4dca2f322163590[m
+Author: valdeir <andrade_mai@yahoo.com.br>
+Date:   Wed Apr 8 20:32:31 2020 -0400
+
+    teste valdeir
+
+[33mcommit 8b58ed9ab0bb115aa487b3ca4d92936ae36a18b3[m
+Author: valdeir <andrade_mai@yahoo.com.br>
+Date:   Wed Apr 8 20:26:11 2020 -0400
+
+    lista
+
+[33mcommit 64dd0878463aee0408ff8baf8266fdac2c9e4549[m
+Author: Higor Cavalcanti Silva <higorsilva07.hs@gmail.com>
+Date:   Wed Apr 8 15:12:32 2020 -0400
+
+    Commit Higor
+
+[33mcommit 048610de2a0508e44f7174041f08843fc579d861[m
+Merge: 58414b4 97148a2
+Author: yantmartins <yantmartins@live.com>
+Date:   Tue Apr 7 16:31:14 2020 -0400
+
+    Merge branch 'master' of https://github.com/fabricadeprogramador/t30-modulo1
+
+[33mcommit 58414b404948c3261abe995bd4dd0276304d0291[m
+Author: yantmartins <yantmartins@live.com>
+Date:   Tue Apr 7 16:28:54 2020 -0400
+
+    Commit Yan
+
+[33mcommit 97148a2e38a05324db1442b3e892a989add6e0c2[m
+Author: pedrohenriquecardoso <pedrohcardoso.1995@gmail.com>
+Date:   Sun Apr 5 09:49:23 2020 -0300
+
+    teste ph
+
+[33mcommit ead1b94e63da92be3e8fc706360fb68ceb4335ea[m
+Author: yantmartins <yantmartins@live.com>
+Date:   Sat Apr 4 18:04:57 2020 -0400
+
+    Alteraçao do Yan
+
+[33mcommit d7fed36d0151057c75f79e307fab3cd582875e62[m
+Author: valdeir <andrade_mai@yahoo.com.br>
+Date:   Sat Apr 4 18:02:59 2020 -0400
+
+    altercao valdeir
+
+[33mcommit 5fd1c588fee4352e3b14af806f73115106cf6c37[m
+Author: Emersonmotti <emerson.motti@hotmail.com>
+Date:   Sat Apr 4 17:40:41 2020 -0300
+
+    Alteracao Emerson
+
+[33mcommit 4465bf9fdf4f08fe1c941f924d004d56ca2e14f5[m
+Author: Valdecir-lima <emerson.motti@hotmail.com>
+Date:   Sat Apr 4 17:31:16 2020 -0300
+
+    Alteraçao do Valdecir
+
+[33mcommit b88c201cc45bcdc78afb7812f81d8e96d7ebbd7f[m
+Author: Vagner Córdoba <vagner.cordoba@outlook.com>
+Date:   Sat Apr 4 17:23:59 2020 -0400
+
+    Alteracao Vagner
+
+[33mcommit f99ad4c47507fce46b570302bdbcdf6f6b0fa108[m
+Author: pedrohenriquecardoso <pedrohcardoso.1995@gmail.com>
+Date:   Sat Apr 4 18:19:40 2020 -0300
+
+    pedro henrique
+
+[33mcommit 7e5b822d72d9c4f3db61b44fc186a92538e90999[m
+Author: Higor Cavalcanti Silva <higorsilva07.hs@gmail.com>
+Date:   Sat Apr 4 17:13:53 2020 -0400
+
+    Alteração do Higor
+
+[33mcommit afa2f30b7ca00555383408683a1ad5d287df4a4c[m
+Author: gepassos <gustavo.escuderopassos@gmail.com>
+Date:   Sat Apr 4 17:11:49 2020 -0400
+
+    Alteração do Gustavo
+
+[33mcommit 86d407af2ce6fc362e1bb85d5d1bba1780a868a4[m
+Author: Aoliabe Jacques <aoliabejacques@Aoliabes-MacBook-Pro.local>
+Date:   Sat Apr 4 16:07:42 2020 -0400
+
+    contribuicao aoliabe
+
+[33mcommit 3495beeea4343bcd3ba39b687af83ac942ddad3a[m
+Author: Virmerson Bento dos Santos <virmerson@hightechcursos.com.br>
+Date:   Sat Apr 4 15:21:50 2020 -0400
+
+    Documetacao inicial
